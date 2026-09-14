@@ -1,0 +1,7 @@
+# rclone - backup pessoal
+
+Aplicativo de uso pessoal. Usa o rclone para guardar cópias de segurança cifradas de um servidor próprio no Google Drive do próprio dono.
+
+Acesso pedido: apenas drive.file, ou seja, só os arquivos criados pelo próprio aplicativo.
+
+[Política de privacidade](privacidade.html)
