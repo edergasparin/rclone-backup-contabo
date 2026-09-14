@@ -1,0 +1,9 @@
+# Política de privacidade
+
+Este aplicativo é de uso exclusivo do seu dono e não é oferecido a terceiros.
+
+Ele acessa somente os arquivos que ele mesmo cria no Google Drive do dono (escopo drive.file), para guardar backups cifrados. Nenhum outro arquivo do Drive é lido.
+
+Nenhum dado é vendido, compartilhado ou usado para outra finalidade. O acesso pode ser revogado a qualquer momento em myaccount.google.com/permissions.
+
+Contato: pelo e-mail de suporte exibido na tela de autorização do Google.
